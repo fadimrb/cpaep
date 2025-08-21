@@ -1,0 +1,726 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/users/students/r0967843/Downloads/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project
+T_opt
+Z2 !s11d adder_sv_unit /users/students/r0967843/Downloads/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project/WORK 1 intf 1 /users/students/r0967843/Downloads/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project/WORK 
+!s110 1732384430
+Vc5kl4KDod7PGb28e_^DSf0
+Z3 04 10 4 work tbench_top fast 0
+=1-000ae431a4f1-674216ad-e6839-e32
+R0
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+Z6 o-quiet -auto_acc_if_foreign -work WORK
+Z7 tCvgOpt 0
+n@_opt
+Z8 OL;O;2022.4;75
+R1
+T_opt1
+R2
+!s110 1732387598
+Ve3Z<HQfc^8?a9MI<_zKHk3
+R3
+=1-000ae431a4f1-6742230d-bf364-97a
+R0
+R4
+R5
+R6
+R7
+n@_opt1
+R8
+R1
+T_opt10
+Z9 !s11d /users/students/r0967843/Downloads/CPAEP_2024-2025-fully_working (1)/CPAEP_2024-2025-fully_working/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project/WORK 0 
+Z10 !s11d intf 1 0 
+Z11 !s11d (1)/CPAEP_2024-2025-fully_working/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project/WORK 1 0 
+Z12 !s11d adder_sv_unit /users/students/r0967843/Downloads/CPAEP_2024-2025-fully_working 0 
+!s110 1732561673
+VMaMCz22a@Ra;4E6]jn<XQ2
+R3
+=1-000ae431a4f1-6744cb09-549f5-5fa62
+R0
+R4
+R5
+R6
+R7
+n@_opt10
+R8
+R1
+T_opt11
+R9
+R10
+R11
+R12
+!s110 1732561722
+VYmIlV:E4Jf43PhcWWPSzU0
+R3
+=1-000ae431a4f1-6744cb39-bd50b-5fb8c
+R0
+R4
+R5
+R6
+R7
+n@_opt11
+R8
+R1
+T_opt12
+R9
+R10
+R11
+R12
+!s110 1732561750
+VTUVe]GQc_[jI=`1nDn02@0
+R3
+=1-000ae431a4f1-6744cb55-e16fb-5fc5c
+R0
+R4
+R5
+R6
+R7
+n@_opt12
+R8
+T_opt13
+R9
+R10
+R11
+R12
+!s110 1732553742
+V@n6Q?8EeGOKmf4XE@CLN;3
+R3
+=1-000ae431a4f1-6744ac0e-23df9-5a032
+R0
+R4
+R5
+R6
+R7
+n@_opt13
+R8
+R1
+T_opt2
+Z13 !s11d adder_sv_unit /users/students/r0969864/Downloads/CPAEP_2024-2025(3)(1)-working/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project/WORK 1 intf 1 /users/students/r0969864/Downloads/CPAEP_2024-2025(3)(1)-working/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project/WORK 
+!s110 1732453466
+V8HJ=2R:FehMK80T3ZQ3h80
+R3
+=1-001a4a1601d2-67432459-cb1fd-5749
+R0
+R4
+R5
+R6
+R7
+n@_opt2
+R8
+R1
+T_opt3
+R13
+!s110 1732459648
+V@FVbQX8MlR=?Y1M648GD01
+R3
+=1-001a4a1601d2-67433c7f-bccdf-70cf
+R0
+R4
+R5
+R6
+R7
+n@_opt3
+R8
+R1
+T_opt4
+R13
+!s110 1732459923
+VGH7dTH@JGE6HMaTYKffGi1
+R3
+=1-001a4a1601d2-67433d92-ada3a-7289
+R0
+R4
+R5
+R6
+R7
+n@_opt4
+R8
+R1
+T_opt5
+R13
+!s110 1732459970
+VP4QA0nm4];T2NY1cBfniV1
+R3
+=1-001a4a1601d2-67433dc2-59d65-7303
+R0
+R4
+R5
+R6
+R7
+n@_opt5
+R8
+R1
+T_opt6
+R13
+!s110 1732459997
+VJiBg8K<7E=nRVS:GXK9@X3
+R3
+=1-001a4a1601d2-67433ddd-68140-7394
+R0
+R4
+R5
+R6
+R7
+n@_opt6
+R8
+R1
+T_opt7
+R9
+R10
+R11
+R12
+!s110 1732553837
+V[n9<m7nM:RM;1<B17WKeD2
+R3
+=1-000ae431a4f1-6744ac6d-2e13b-5a1c6
+R0
+R4
+R5
+R6
+R7
+n@_opt7
+R8
+R1
+T_opt8
+R9
+R10
+R11
+R12
+!s110 1732553867
+VR1UJ6PngnValS;=QZ>5RH2
+R3
+=1-000ae431a4f1-6744ac8a-c76b2-5a270
+R0
+R4
+R5
+R6
+R7
+n@_opt8
+R8
+R1
+T_opt9
+R9
+R10
+R11
+R12
+!s110 1732554997
+V9@;:Kd2P5lj@7JPfB7V^o3
+R3
+=1-000ae431a4f1-6744b0f5-2cc56-5aedf
+R0
+R4
+R5
+R6
+R7
+n@_opt9
+R8
+R1
+vadder
+Z14 !s105 adder_sv_unit
+Z15 DXx4 work 13 adder_sv_unit 0 22 a:NoGdG@2XTMjFN3f_X]o0
+Z16 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z17 !s110 1732561749
+!i10b 1
+!s100 [ZZ]>:QS]@<7No[kmRj6M0
+I8?AY2m`KO`X3f;DC80ZHI0
+S1
+Z18 d/users/students/r0967843/Downloads/CPAEP_2024-2025-fully_working (1)/CPAEP_2024-2025-fully_working/CPAEP_2024-2025(3)(1)/CPAEP_2024-2025(3)/CPAEP_2024-2025/cpaep-24-25-complete/main_project
+w1731490190
+Z19 8src/rtl_building_blocks/device/adder.sv
+Z20 Fsrc/rtl_building_blocks/device/adder.sv
+!i122 212
+L0 1 52
+Z21 VDg1SIo80bB@j0V0VzS_@n1
+Z22 OL;L;2022.4;75
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+Z23 o-sv17compat -override_timescale=1ns/1ps -work WORK -64 -O4 -mfcu -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+Xadder_sv_unit
+!s115 intf
+R16
+R17
+Va:NoGdG@2XTMjFN3f_X]o0
+r1
+!s85 0
+!i10b 1
+!s100 2]e[l;<TZC9[E>jcTQ;=J2
+Ia:NoGdG@2XTMjFN3f_X]o0
+!i103 1
+S1
+R18
+Z24 w1732561744
+R19
+R20
+Z25 8src/rtl_building_blocks/device/multiplier.sv
+Z26 Fsrc/rtl_building_blocks/device/multiplier.sv
+Z27 8src/rtl_building_blocks/device/register.sv
+Z28 Fsrc/rtl_building_blocks/device/register.sv
+Z29 8src/rtl_building_blocks/device/memory.sv
+Z30 Fsrc/rtl_building_blocks/device/memory.sv
+Z31 8src/rtl_building_blocks/device/fifo.sv
+Z32 Fsrc/rtl_building_blocks/device/fifo.sv
+Z33 8src/rtl_building_blocks/device/mac.sv
+Z34 Fsrc/rtl_building_blocks/device/mac.sv
+Z35 8src/rtl_building_blocks/device/adder_tree.sv
+Z36 Fsrc/rtl_building_blocks/device/adder_tree.sv
+Z37 8src/device/controller_fsm.sv
+Z38 Fsrc/device/controller_fsm.sv
+Z39 8src/device/systolic_array.sv
+Z40 Fsrc/device/systolic_array.sv
+Z41 8src/device/systolic_mac.sv
+Z42 Fsrc/device/systolic_mac.sv
+Z43 8src/device/controller_fsm_systolic.sv
+Z44 Fsrc/device/controller_fsm_systolic.sv
+Z45 8src/device/top_chip.sv
+Z46 Fsrc/device/top_chip.sv
+Z47 8src/device/top_system.sv
+Z48 Fsrc/device/top_system.sv
+Z49 8src/rtl_building_blocks/test/multiplier_tb.sv
+Z50 Fsrc/rtl_building_blocks/test/multiplier_tb.sv
+Z51 8src/rtl_building_blocks/test/adder_tb.sv
+Z52 Fsrc/rtl_building_blocks/test/adder_tb.sv
+Z53 8src/rtl_building_blocks/test/fifo_tb.sv
+Z54 Fsrc/rtl_building_blocks/test/fifo_tb.sv
+8src/test/common.sv
+Fsrc/test/common.sv
+Z55 8src/test/intf.sv
+Z56 Fsrc/test/intf.sv
+8src/test/transaction.sv
+Fsrc/test/transaction.sv
+8src/test/driver.sv
+Fsrc/test/driver.sv
+8src/test/monitor.sv
+Fsrc/test/monitor.sv
+8src/test/generator.sv
+Fsrc/test/generator.sv
+8src/test/checker.sv
+Fsrc/test/checker.sv
+8src/test/scoreboard.sv
+Fsrc/test/scoreboard.sv
+8src/test/environment.sv
+Fsrc/test/environment.sv
+Z57 8src/test/testprogram.sv
+Z58 Fsrc/test/testprogram.sv
+Z59 8src/test/tbench_top.sv
+Z60 Fsrc/test/tbench_top.sv
+!i122 212
+L0 2 0
+R22
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vadder_tb
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 <8AN?2TWmHl`;UF=03[Oa2
+I;UQC;d99J0S0MI]OLnoTd3
+S1
+R18
+Z61 w1729870271
+R51
+R52
+!i122 212
+Z62 L0 6 29
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vadder_tree
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 SC[ZlbKLV1bQ8l_;kn8`z1
+I_`O^3^;nW[=9@gF[bOnj_0
+S1
+R18
+w1732406326
+R35
+R36
+!i122 212
+L0 1 89
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vcontroller_fsm
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 6Eb4m^JRGeeS=Lif@S]`k3
+I8H1_IJL=Xf2?Gd79[3FT00
+S1
+R18
+w1732366457
+R37
+R38
+!i122 212
+L0 1 215
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vcontroller_fsm_systolic
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 d0`Y3PY5[OO>8c:J8Li<S0
+IjDQ7kX>GD`CTBbNe5UkJd0
+S1
+R18
+w1732560186
+R43
+R44
+!i122 212
+L0 1 741
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vfifo
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 ?g1g9Xb?odimM@D[P[4QC2
+I_JT4G3jcbfEf3Fhd7;TRI2
+S1
+R18
+R61
+R31
+R32
+!i122 212
+L0 1 61
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vfifo_tb
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 dJzGIXiI3`fG]KT15Keaa0
+I5Jl0IhBicA7^ZP;Z_QHTA0
+S1
+R18
+R61
+R53
+R54
+!i122 212
+L0 7 70
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+Yintf
+R16
+R15
+R17
+R21
+r1
+!s85 0
+!i10b 1
+!s100 5N>Kb9olhzRF=:X7<HJG<3
+I??Y:koj53n2B0L1C1WcD`3
+R14
+S1
+R18
+w1732200474
+R55
+R56
+!i122 212
+Z63 L0 1 0
+R22
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vmac
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 `ccDF4eB^_F@=DhKhHQ4f1
+IGDn_RnLe8?ZP:ZETY0PJ53
+S1
+R18
+w1731490189
+R33
+R34
+!i122 212
+L0 1 69
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vmemory
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 >^E]fGd=P7bJfX357dzI71
+I6O8[YHeBfIMDD0MD@YXnM1
+S1
+R18
+R61
+R29
+R30
+!i122 212
+L0 3 57
+R21
+R22
+r1
+!s85 0
+31
+!s101 -O4
+!i113 0
+R23
+R7
+vmultiplier
+R14
+R15
+R16
+R17
+!i10b 1
+!s100 LZ5]T<8Cg3D8J^nj7l0XS0
+IE79Hk0On5bHRngo03TOaG0
+S1
+R18
+R61
+R25
+R26
+!i122 212
+L0 1 51
+R21
+R22
+r
